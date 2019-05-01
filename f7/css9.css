@@ -118,6 +118,8 @@ background-color: aqua;
                                     background-color: beige;
                                     width:400px;
                                 }
+body{
+background-image:url("arch.jpg");}
 #y{
     margin-top:10px;
 width:400px;
